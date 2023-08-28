@@ -17,13 +17,13 @@ Our Arduino libraries are available directly via the Library Manager in the Ardu
 
 The code can be found in the following repositories:
 
-| Product  | Function                                | Bus      | Repository                                                       |
-|----------|-----------------------------------------|----------|------------------------------------------------------------------|
-| APC1     | All-in-one combo sensor                 | I2C/UART | [apc1_driver](https://github.com/sciosense/APC1_driver)                                                  |
-| ENS160   | Metal-Oxide Gas Sensor                  | I2C      | [ens160_driver](https://github.com/sciosense/ENS160_driver)      |
-| ENS21x   | Humidity and Temperature                | I2C      | [ens21x_driver](https://github.com/sciosense/ENS21x_driver)      |
-| ENS220   | Barometric Pressure and Temperature     | I2C/SPI  | [arduino-ens220](https://github.com/Sensirion/arduino-i2c-scd30) |
-| *CCS811* | Metal-Oxide Gas Sensor (*discontinued*) | I2C      | [ccs811_driver](https://github.com/sciosense/CCS811_driver)      |
+| Product  | Function                                | Bus      | Repository                                                  |
+|----------|-----------------------------------------|----------|-------------------------------------------------------------|
+| APC1     | All-in-one combo sensor                 | I2C/UART | [apc1_driver](https://github.com/sciosense/APC1_driver)     |
+| ENS160   | Metal-Oxide Gas Sensor                  | I2C      | [ens160_driver](https://github.com/sciosense/ENS160_driver) |
+| ENS21x   | Humidity and Temperature                | I2C      | [ens21x_driver](https://github.com/sciosense/ENS21x_driver) |
+| ENS220   | Barometric Pressure and Temperature     | I2C/SPI  | (*coming soon*)                                             |
+| *CCS811* | Metal-Oxide Gas Sensor (*discontinued*) | I2C      | [ccs811_driver](https://github.com/sciosense/CCS811_driver) |
 
 
 ## Third party repositories provided by our developer community
