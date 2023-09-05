@@ -22,7 +22,7 @@ The code can be found in the following repositories:
 | APC1     | All-in-one combo sensor                 | I2C/UART | [APC1_driver](https://github.com/sciosense/APC1_driver)     |
 | ENS145   | Metal-Oxide Gas Sensor                  | Analog/(I2C) | [ENS145_driver](https://github.com/sciosense/ENS145_driver)     |
 | ENS160   | Metal-Oxide Gas Sensor                  | I2C      | [ENS160_driver](https://github.com/sciosense/ENS160_driver) |
-| ENS21x   | Humidity and Temperature                | I2C      | [ENS21x_driver](https://github.com/sciosense/ENS21x_driver) |
+| ENS21x   | Humidity and Temperature                | I2C      | [ens21x-arduino](https://github.com/sciosense/arduino-ens21x) |
 | ENS220   | Barometric Pressure and Temperature     | I2C/SPI  | [ens220-arduino](https://github.com/sciosense/arduino-ens220)                                             |
 | *CCS811* | Metal-Oxide Gas Sensor (*discontinued*) | I2C      | [CCS811_driver](https://github.com/sciosense/CCS811_driver) |
 
