@@ -34,7 +34,7 @@ The code can be found in the following repositories:
 | Product  | Function                                | Bus      | Repository                                                  |
 |----------|-----------------------------------------|----------|-------------------------------------------------------------|
 | AS6031   | Ultrasonic Flow Converter               | SPI      | [as6031-sample-code](https://github.com/sciosense/as6031-sample-code)     |
-| PCAP04   | Capacitance to Digital Converter        | SPI      | [pcap04-sample-code](https://github.com/sciosense/pcap04-sample-code)     |
+| PCAP04   | Capacitance to Digital Converter        | I2C/SPI  | [pcap04-sample-code](https://github.com/sciosense/pcap04-sample-code)     |
 
 ## Third party repositories provided by our developer community
 
