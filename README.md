@@ -47,6 +47,4 @@ The code can be found in the following repositories:
 - CCS811 (*discontinued*) Arduino library: <https://github.com/maarten-pennings/CCS811>
 
 ### From Dave Nadler
-- Software stack for ENS210 at the end of a long 1-Wire cable.
-The 1-Wire bus is driven at the host MCU with a DS2485, and at the remote end a DS28E18 controls and powers the ENS210. Includes C++ driver for the ENS210 along with the complete 1-Wire stack. Portable (example uses FreeRTOS and NXP FSL LPI2C).
-<https://https://github.com/DRNadler/1Wire>
+- ENS210 1-wire software stack (DS2485-(1-Wire bus)-DS28E18-ENS210): <https://github.com/DRNadler/1Wire>
