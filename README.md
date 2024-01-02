@@ -53,3 +53,6 @@ The code can be found in the following repositories:
 ### From Maarten Pennings 
 - ENS210 Arduino library: <https://github.com/maarten-pennings/ENS210>
 - CCS811 (*discontinued*) Arduino library: <https://github.com/maarten-pennings/CCS811>
+
+### From Dave Nadler
+- ENS210 1-wire software stack (DS2485-(1-Wire bus)-DS28E18-ENS210): <https://github.com/DRNadler/1Wire>
