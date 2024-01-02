@@ -20,7 +20,6 @@ The code can be found in the following repositories:
 | Product  | Function                                | Bus      | Repository                                                  |
 |----------|-----------------------------------------|----------|-------------------------------------------------------------|
 | APC1     | Air Purification Combo Sensor           | UART/~~I2C~~ | [apc1-arduino](https://github.com/sciosense/apc1-arduino)     |
-| ENS145   | Metal-Oxide Gas Sensor                  | Analog/(I2C) | [ENS145_driver](https://github.com/sciosense/ENS145_driver)     |
 | ENS160   | Metal-Oxide Gas Sensor                  | I2C      | [ENS160_driver](https://github.com/sciosense/ENS160_driver) |
 | ENS21x   | Humidity and Temperature                | I2C      | [ens21x-arduino](https://github.com/sciosense/ens21x-arduino) |
 | ENS220   | Barometric Pressure and Temperature     | I2C/SPI  | [ens220-arduino](https://github.com/sciosense/ens220-arduino)                                             |
