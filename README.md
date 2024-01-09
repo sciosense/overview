@@ -20,10 +20,9 @@ The code can be found in the following repositories:
 | Product  | Function                                | Bus      | Repository                                                  |
 |----------|-----------------------------------------|----------|-------------------------------------------------------------|
 | APC1     | Air Purification Combo Sensor           | UART/~~I2C~~ | [apc1-arduino](https://github.com/sciosense/apc1-arduino)     |
-| ENS160   | Metal-Oxide Gas Sensor                  | I2C      | [ENS160_driver](https://github.com/sciosense/ENS160_driver) |
+| ENS16x   | Metal-Oxide Gas Sensor                  | I2C      | [ens16x-arduino](https://github.com/sciosense/ens16x-arduino) |
 | ENS21x   | Humidity and Temperature                | I2C      | [ens21x-arduino](https://github.com/sciosense/ens21x-arduino) |
 | ENS220   | Barometric Pressure and Temperature     | I2C/SPI  | [ens220-arduino](https://github.com/sciosense/ens220-arduino)                                             |
-| *CCS811* | Metal-Oxide Gas Sensor (*discontinued*) | I2C      | [CCS811_driver](https://github.com/sciosense/CCS811_driver) |
 
 ## STM32 code examples
 Example for the STM32 microcontroler, to familiarize with our products.
