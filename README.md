@@ -1,7 +1,7 @@
 # Overview of ScioSense's GitHub Repositories
 
 This page is intended to give an overview of the available drivers for ScioSense products. ScioSense itself provides
-Arduino libraries to enable a quick and easy start with our products. 
+Embedded C and Arduino libraries to enable a quick and easy start with our products. 
 
 In addition, some third-party repositories are listed at the end of this document.
 Please note that these projects are not developed by ScioSense and the listing is not an official recommendation.
@@ -12,6 +12,14 @@ our products themselves, please use the [contact form](https://www.sciosense.com
 Dashboard software and Labview drivers can be found in the [download area](https://downloads.sciosense.com/) on our
 website. 
 
+## Embedded C Libraries
+Generic drivers for all platforms.
+
+| Product  | Function                                | Bus      | Repository                                                  |
+|----------|-----------------------------------------|----------|-------------------------------------------------------------|
+| APC1     | Air Purification Combo Sensor           | I2C/UART | [apc1-embedded](https://github.com/sciosense/apc1-embedded)     |
+| ENS16x   | Metal-Oxide Gas Sensor                  | I2C/SPI  | [ens16x-embedded](https://github.com/sciosense/ens16x-embedded) |
+
 ## Arduino Libraries
 Our Arduino libraries are available directly via the Library Manager in the Arduino IDE or here on GitHub.
 
@@ -19,10 +27,12 @@ The code can be found in the following repositories:
 
 | Product  | Function                                | Bus      | Repository                                                  |
 |----------|-----------------------------------------|----------|-------------------------------------------------------------|
-| APC1     | Air Purification Combo Sensor           | UART/~~I2C~~ | [apc1-arduino](https://github.com/sciosense/apc1-arduino)     |
-| ENS16x   | Metal-Oxide Gas Sensor                  | I2C      | [ens16x-arduino](https://github.com/sciosense/ens16x-arduino) |
+| APC1     | Air Purification Combo Sensor           | I2C/UART | [apc1-arduino](https://github.com/sciosense/apc1-arduino)     |
+| ENS16x   | Metal-Oxide Gas Sensor                  | I2C/SPI  | [ens16x-arduino](https://github.com/sciosense/ens16x-arduino) |
 | ENS21x   | Humidity and Temperature                | I2C      | [ens21x-arduino](https://github.com/sciosense/ens21x-arduino) |
 | ENS220   | Barometric Pressure and Temperature     | I2C/SPI  | [ens220-arduino](https://github.com/sciosense/ens220-arduino)                                             |
+
+
 
 ## STM32 code examples
 Example for the STM32 microcontroler, to familiarize with our products.
