@@ -7,7 +7,7 @@ In addition, some third-party repositories are listed at the end of this documen
 Please note that these projects are not developed by ScioSense and the listing is not an official recommendation.
 
 You can post any issues you have with the drivers on the respective GitHub repository. If you have questions about 
-our products themselves, please use the [contact form](https://www.sciosense.com/contact/) on our website.
+our products, please click <a href="mailto:info@sciosense.com">here</a>to send an email to our sales team. 
 
 Dashboard software and Labview drivers can be found in the [download area](https://downloads.sciosense.com/) on our
 website. 
